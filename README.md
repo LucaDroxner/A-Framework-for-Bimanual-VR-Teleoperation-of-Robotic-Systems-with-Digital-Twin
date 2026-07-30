@@ -1,8 +1,7 @@
 # A Framework for Bimanual VR Teleoperation of Robotic Systems with Integrated Hybrid Motion Control and Digital Twin
 
 <p align="center">
-  <img src=<img width="507" height="301" alt="image" src="https://github.com/user-attachments/assets/d0136ae7-3521-4b6e-84aa-eec0040e55fb" />
- alt="System Setup" width="100%">
+  <img src="https://github.com/user-attachments/assets/d0136ae7-3521-4b6e-84aa-eec0040e55fb" alt="System Setup" width="100%">
 </p>
 
 ## Demo Videos
